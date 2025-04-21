@@ -24,13 +24,13 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and MERN Stack. </b>
+                <b className="purple"> C++, R programming , Tableau and Excel. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className="purple">Data driven Applications and Products </b> and
                 also interested in{" "}
                 <b className="purple">
                   Algorithms
@@ -38,18 +38,6 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js</b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -67,7 +55,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/monk0707"
+                  href="https://github.com/dwarikeshojha"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -75,19 +63,10 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              {/* <li className="social-icons">
-                <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li> */}
+            
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/arvind-sharma-3884a2205/"
+                  href="https://www.linkedin.com/in/dwarikesh-ojha-a05b27252"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -97,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/arvind_mvrx/"
+                  href="https://www.instagram.com/_.who.am.i_04/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
