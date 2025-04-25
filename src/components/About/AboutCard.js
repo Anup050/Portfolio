@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Dwarikesh Ojha </span>
             from <span className="purple"> Prayagraj, India.</span>
             <br />
-            I am currently pursuing my B.Tech in Computer Science from LPU (2022-2026)
+            Currently pursuing my B.Tech in Computer Science from LPU (2022-2026)
             <br />
 
             <br />
